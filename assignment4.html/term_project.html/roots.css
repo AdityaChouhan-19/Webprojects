@@ -1,0 +1,29 @@
+:root{
+    --background1:url(img/Black.jpg);
+    --logo: url(img/TITAN_X_navbar.png);
+    --footer-image: url(img/TITAN_X_navbar.png);
+    --background2: url(img/BG.jpg);
+    --background3: url(img/GM2.webp);
+    --cover: cover;
+    --contain: contain;
+    --no-repeat: no-repeat;
+    --logo-width: 200px;
+    --logo-height: 100px;
+    --spaced-between: space-between;
+    --flex: flex;
+    --center: center;
+    --white: white;
+    --black: black;
+    --red: red;
+    --none: none;
+    --auto: auto;
+    --content-image-height: 400px;
+    --content-image-width: 500px;
+    --content-image-m-top: 25px;
+    --content-image-b-radius: 10px;
+    --footer-image-width: 300px;
+    --footer-image-height: 100px;
+    --relative: relative;
+    --fixed: fixed;
+
+}

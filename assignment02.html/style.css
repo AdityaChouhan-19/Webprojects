@@ -1,0 +1,84 @@
+body{
+    margin: 0; 
+    width: 850px; 
+    margin-left: auto;
+    margin-right: auto; 
+    background-color: rgb(204, 197, 197);
+    font-family: Arial, Tahoma, sans-serif; 
+}
+
+.banner{
+    text-align: center;
+    background-color: black;
+}
+
+.logo{
+    width: 250px; 
+    height: 150px;
+}
+nav>ul{
+    margin-top: 1px;
+    padding: 3px;
+    background-color:black;
+}
+
+nav>ul>li{
+    font-size: 28px;
+    display: inline;
+    padding: 0 35px;
+    border-right: 1px solid white;
+}
+
+nav>ul>li a {
+    text-decoration: none;
+    color: white;
+}
+nav>ul>li:hover{
+    background-color: grey;
+}
+
+h1{
+    background-color: grey;
+    text-align: center
+}
+
+.mac{
+
+    background-color: grey;
+    text-align: center
+}
+
+.img{
+    width: 850px;
+}
+
+.ipad{
+    background-color: grey;
+    text-align: center
+}
+
+.iphone{
+    background-color: grey;
+    text-align: center
+}
+
+.watch{
+    background-color: grey;
+    text-align: center
+}
+.tv{
+    background-color: grey;
+    text-align: center
+}
+
+.tags{
+    background-color: grey;
+    text-align: center
+}
+
+.copyright{
+    text-align: center; 
+    width: 850px; 
+    position: relative;
+}
+

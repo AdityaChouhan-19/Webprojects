@@ -1,0 +1,85 @@
+body{
+    margin: 0px;
+    font-family: Arial, Tahoma, sans-serif;
+}
+
+#content{
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img{
+    background: var(--banner_image);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 950px;
+    height: 250px;
+    background-position-x: center;
+}
+
+.form{
+    text-align: center;
+    font-size: 30px;
+    width: 950px;
+    background-color: rgb(194, 0, 24);
+    border-radius: 20px;
+}
+
+fieldset{
+    border: rgb(128, 128, 128);
+}
+
+.ul>li{
+    display: inline;
+}
+
+.ul{
+    list-style: none;
+    margin-left: -75px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+
+}
+
+#head{   
+    font-size: 50px;
+    text-align: center;
+}
+
+#copy{
+    text-align: center; 
+    margin-top: 30px;
+    background-color:rgb(128, 128, 128); 
+    position: relative;
+    border-radius: 10px;
+}
+
+input[type="radio"]{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(128, 128, 128);
+    margin-right: 10px;
+}
+
+button{
+    width: 70px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color: rgb(128, 128, 128);
+}
+#text{
+    font-size: 40px;
+}
+
+textarea{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    width: 400px;
+}
+
+

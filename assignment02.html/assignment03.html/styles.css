@@ -1,0 +1,192 @@
+body{
+    margin: 0px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Tahoma, sans-serif;
+}
+
+.banner{
+    width:var(--banner_width);
+    height: var(--banner_height);
+    background: var(--banner_image);
+    background-color: var(--banner_color);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+.logo{
+    background: var(--logo);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 130px;
+    height: 20px;
+}
+
+nav>ul{
+    margin-top: 1px;
+    padding: 3px;
+    background-color:rgb(238, 58, 58);
+}
+
+nav>ul>li{
+    display: inline;
+    font-size: 28px;
+    padding: 0 40px;
+    border-right: 1px solid white;
+}
+
+nav>ul>li a{
+    text-decoration: none;
+    color: white;
+}
+
+nav>ul>li:hover{
+    background-color: grey;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    background-color: rgb(238, 58, 58);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    background-color: rgb(207, 57, 57);
+    padding-top: 5px;
+    padding-bottom: 5px;   
+}
+
+.hummer{
+    background: var(--image);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 500px;
+}
+
+
+.hummer1{
+    background: var(--image);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    height: 500px;
+}
+
+hr{
+    color: rgb(207, 57, 57);
+}
+
+.bg2{
+    background: var(--bg2);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    height: 500px;
+}
+
+.hummer2{
+    background: var(--image1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    height: 500px;
+}
+
+.content{
+    color: black;
+}
+
+.para{
+    font-size: large;
+    text-align: center;
+    list-style: none;
+}
+
+table{
+    width: 300px;
+    border: grey;
+}
+
+table, th ,td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td{
+    text-align: center;
+}
+
+tr:nth-child(odd){
+    background-color: #fff;
+}
+
+tr:nth-child(even){
+    background-color: rgb(238, 58, 58);
+}
+
+th{
+    background-color: rgb(238, 58, 58);
+}
+
+
+.inter{
+    background: var(--shadow);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 500px;
+}
+
+.inter2{
+    background: var(--horizon);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 500px;
+}
+
+.roof{
+    background:var(--roof);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 500px;
+}
+
+.copyright{
+    text-align: center; 
+    width: 950px; 
+    margin-top: 30px;
+    background-color: rgb(238, 58, 58);
+    font-size: large;
+}

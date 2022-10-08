@@ -1,0 +1,13 @@
+:root{
+    --logo: url("imgs/banner1.png");
+    --banner_height: 200px;
+    --banner_width: 950px;
+    --banner_color: white;
+    --banner_image: url("imgs/banner.jpg");
+    --image: url("imgs/hummerev.jpg");
+    --image1: url("imgs/hummerev2.jpg");
+    --shadow: url("imgs/inter.png");
+    --bg2: url("imgs/bg2.jpg");
+    --horizon: url("imgs/inter1.png");
+    --roof: url("imgs/roof.png");
+}

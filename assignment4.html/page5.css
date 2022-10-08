@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    font-family: Arial, Tahoma, sans-serif;
+}
+
+#content{
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.img{
+    background: var(--banner_image);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 950px;
+    height: 250px;
+    background-position-x: center;
+}
+.Contact{
+    font-size: 30px;
+    background-color: rgb(194, 0, 24);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1{
+    background-color: rgb(128, 128, 128);
+    border-radius: 10px;
+}
+
+#copy{
+    text-align: center; 
+    margin-top: 30px;
+    background-color:rgb(128, 128, 128); 
+    position: relative;
+    border-radius: 10px;
+}
